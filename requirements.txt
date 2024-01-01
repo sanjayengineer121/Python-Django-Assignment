@@ -1,0 +1,8 @@
+Werkzeug==2.3.7
+django-auth-framework==2.0.7
+WTForms==3.0.1
+djongo==1.3.6
+pymongo==4.6.1
+Django==5.0
+djangorestframework
+
